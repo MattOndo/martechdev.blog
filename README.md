@@ -1,6 +1,4 @@
-# The MarTech Dev Blog
-
-![Drag Racing](./static/images/logos/2x/MTD-logo-color%402x.png)
+![The MarTech Dev](./static/images/logos/2x/MTD-logo-color%402x.png)
 
 ## Found at
 https://martechdev.blog/
